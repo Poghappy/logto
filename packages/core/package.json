@@ -29,7 +29,7 @@
     "@authenio/samlify-node-xmllint": "^2.0.0",
     "@aws-sdk/client-s3": "^3.556.0",
     "@azure/storage-blob": "^12.17.0",
-    "@google-cloud/storage": "^7.10.0",
+    "@google-cloud/storage": "^7.19.0",
     "@koa/cors": "^5.0.0",
     "@logto/affiliate": "^0.1.0",
     "@logto/app-insights": "workspace:^2.1.0",
